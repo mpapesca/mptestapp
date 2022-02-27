@@ -1,0 +1,10 @@
+{
+  "name": "mptestbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Papesca",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
